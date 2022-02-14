@@ -1,0 +1,140 @@
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Datos.dll.config
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Datos.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Datos.XmlSerializers.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Datos.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.Unity.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.Unity.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\DESARROLLO\SISU\SISU\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SISU\SISU\Datos\obj\Release\Datos.dll
+C:\DESARROLLO\SISU\SISU\Datos\obj\Release\Datos.pdb
+C:\DESARROLLO\SISU\SISU\Datos\obj\Release\Datos.XmlSerializers.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Datos.dll.config
+F:\xtian\SISU_2010\Datos\bin\Release\Datos.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Datos.XmlSerializers.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Datos.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Dominio.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Infraestructura.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.Unity.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\xtian\SISU_2010\Datos\bin\Release\Dominio.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Infraestructura.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.Unity.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+F:\xtian\SISU_2010\Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+F:\xtian\SISU_2010\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Datos\obj\Release\Datos.dll
+F:\xtian\SISU_2010\Datos\obj\Release\Datos.pdb
+F:\xtian\SISU_2010\Datos\obj\Release\Datos.XmlSerializers.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.dll.config
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.XmlSerializers.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Dominio.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.Contexto.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Dominio.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.Contexto.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.XmlSerializers.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.dll.config
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.XmlSerializers.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.XmlSerializers.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.dll.config
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.XmlSerializers.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Release\Datos.XmlSerializers.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Datos.dll.config
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Datos.XmlSerializers.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Release\Datos.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Release\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Release\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Release\Datos.XmlSerializers.dll

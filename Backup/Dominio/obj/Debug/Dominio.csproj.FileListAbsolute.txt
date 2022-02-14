@@ -1,0 +1,36 @@
+C:\DESARROLLO\SISU\SISU\Dominio\bin\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Dominio\bin\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Dominio\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Dominio\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Dominio\obj\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Dominio\obj\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Dominio\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Dominio\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Dominio\obj\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Dominio\obj\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Dominio\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Dominio\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Dominio\obj\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Dominio\obj\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Dominio\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Dominio\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Dominio\obj\Debug\Dominio.dll
+F:\xtian\SISU_2010\Dominio\obj\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Backup\Dominio\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Backup\Dominio\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Backup\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Backup\Dominio\obj\Debug\Dominio.dll
+F:\xtian\SISU_2010\Backup\Dominio\obj\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Dominio\bin\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Dominio\bin\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Dominio\obj\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Dominio\obj\Debug\Dominio.pdb

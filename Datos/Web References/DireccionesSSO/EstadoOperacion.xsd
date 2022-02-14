@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://ws.chilexpress.cl/OSB/EBO/EstadoOperacion" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://ws.chilexpress.cl/OSB/EBO/EstadoOperacion" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="EstadoOperacionType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigoEstado" type="xs:integer" />
+      <xs:element minOccurs="0" name="descripcionEstado" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

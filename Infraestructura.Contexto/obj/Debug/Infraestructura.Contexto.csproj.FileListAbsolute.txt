@@ -1,0 +1,104 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+E:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+E:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+E:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.dll
+E:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+E:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+E:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+E:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojAssemblyReference.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CopyComplete
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojAssemblyReference.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CopyComplete
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb

@@ -1,0 +1,7 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Release\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Release\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Release\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Release\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Release\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Release\Infraestructura.Contexto.pdb

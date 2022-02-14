@@ -1,0 +1,30 @@
+C:\DESARROLLO\SISU\SISU\Dominio\bin\Release\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Dominio\bin\Release\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Release\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Release\Dominio.pdb
+F:\xtian\SISU_2010\Dominio\bin\Release\Dominio.dll
+F:\xtian\SISU_2010\Dominio\bin\Release\Dominio.pdb
+F:\xtian\SISU_2010\Dominio\obj\Release\Dominio.dll
+F:\xtian\SISU_2010\Dominio\obj\Release\Dominio.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\bin\Release\Dominio.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\bin\Release\Dominio.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.csprojResolveAssemblyReference.cache
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\bin\Release\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\bin\Release\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Dominio\bin\Release\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Dominio\bin\Release\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Dominio\obj\Release\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Dominio\bin\Release\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Dominio\bin\Release\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Dominio\obj\Release\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Dominio\obj\Release\Dominio.pdb

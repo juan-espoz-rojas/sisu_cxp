@@ -1,0 +1,58 @@
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Presentacion.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Presentacion.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\AjaxControlToolkit.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Dominio.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.Exceptions.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.WebConstrols.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Negocio.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Newtonsoft.Json.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Datos.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.ServiceLocation.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.Unity.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.Unity.Interception.dll
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Dominio.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.Exceptions.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.WebConstrols.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Infraestructura.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Negocio.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Datos.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.Unity.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\bin\Microsoft.Practices.Unity.Interception.pdb
+F:\xtian\SISU_2010\Backup\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Backup\Presentacion\obj\Debug\Presentacion.dll
+F:\xtian\SISU_2010\Backup\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Presentacion.dll.config
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Presentacion.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Presentacion.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\AjaxControlToolkit.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.Exceptions.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.WebConstrols.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Negocio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.Exceptions.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.WebConstrols.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Negocio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\bin\Datos.dll.config
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Presentacion\obj\Debug\Presentacion.pdb

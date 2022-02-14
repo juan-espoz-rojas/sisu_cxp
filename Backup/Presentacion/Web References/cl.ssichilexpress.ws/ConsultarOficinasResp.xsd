@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasResp" xmlns:eo="http://ws.chilexpress.cl/OSB/EBO/EstadoOperacion" elementFormDefault="qualified" targetNamespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasResp" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FUT000001_EsquemasComunes%2FResources%2FSchemas%2FEBO%2FEstadoOperacion" namespace="http://ws.chilexpress.cl/OSB/EBO/EstadoOperacion" />
+  <xs:element name="respConsultarOficinas" type="ConsultarOficinasResponseType" />
+  <xs:complexType name="ConsultarOficinasResponseType">
+    <xs:sequence>
+      <xs:element name="estadoOperacion" type="eo:EstadoOperacionType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="listaOficinas" type="ListaOficinasType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ListaOficinasType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="oficina" type="OficinaType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="OficinaType">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="idNombreCalle" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="glsOficina" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="numeracion" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="numCaracterAnt" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="numCaracterPost" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="codComunaIne" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="numBlock" type="xs:decimal" />
+      <xs:element minOccurs="1" maxOccurs="1" name="numDireccion" type="xs:decimal" />
+      <xs:element minOccurs="1" maxOccurs="1" name="valLatitud" type="xs:decimal" />
+      <xs:element minOccurs="1" maxOccurs="1" name="valLongitud" type="xs:decimal" />
+      <xs:element minOccurs="1" maxOccurs="1" name="glsCalle" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="glsComuna" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="codComuna" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="glsAlias" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

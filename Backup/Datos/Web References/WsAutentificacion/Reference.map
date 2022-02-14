@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://pangue/WS_SAU/ServiciosSistemaAutentificacionUsuario.asmx?disco" filename="ServiciosSistemaAutentificacionUsuario.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://pangue/WS_SAU/ServiciosSistemaAutentificacionUsuario.asmx?wsdl" filename="ServiciosSistemaAutentificacionUsuario.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

@@ -1,0 +1,305 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+F:\xtian\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+E:\xtian\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Datos.dll.config
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojAssemblyReference.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.CoreCompileInputs.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.CopyComplete
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.dll.config
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojAssemblyReference.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.CoreCompileInputs.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.CopyComplete
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Infraestructura.WebConstrols.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Datos.dll.config
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\bin\Debug\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura.WebConstrols\obj\Debug\Infraestructura.WebConstrols.pdb

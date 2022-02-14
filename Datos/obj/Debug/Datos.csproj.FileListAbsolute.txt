@@ -1,0 +1,242 @@
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Datos.dll.config
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Datos.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Datos.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\DESARROLLO\SISU\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\DESARROLLO\SISU\SISU\Datos\obj\Debug\Datos.dll
+C:\DESARROLLO\SISU\SISU\Datos\obj\Debug\Datos.pdb
+C:\DESARROLLO\SISU\SISU\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Datos.dll.config
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\obj\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Datos\obj\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Datos.dll.config
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\obj\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Datos\obj\Debug\Datos.pdb
+F:\xtian\SISU_2010\Datos\bin\Debug\Datos.dll.config
+F:\xtian\SISU_2010\Datos\bin\Debug\Datos.dll
+F:\xtian\SISU_2010\Datos\bin\Debug\Datos.pdb
+F:\xtian\SISU_2010\Datos\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.dll
+F:\xtian\SISU_2010\Datos\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.pdb
+F:\xtian\SISU_2010\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Datos\obj\Debug\Datos.dll
+F:\xtian\SISU_2010\Datos\obj\Debug\Datos.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Datos.dll.config
+E:\xtian\SISU_2010\Datos\bin\Debug\Datos.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Datos.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Dominio.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\xtian\SISU_2010\Datos\bin\Debug\Dominio.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Infraestructura.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\xtian\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\xtian\SISU_2010\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\xtian\SISU_2010\Datos\obj\Debug\Datos.dll
+E:\xtian\SISU_2010\Datos\obj\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Datos.dll.config
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\obj\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Datos\obj\Debug\Datos.pdb
+C:\cfuentes\DES\SISU_2010\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\cfuentes\DES\SISU_2010\Datos\obj\Debug\Datos.dll
+C:\cfuentes\DES\SISU_2010\Datos\obj\Debug\Datos.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Datos.dll.config
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Datos.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Datos.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Dominio.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Dominio.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Infraestructura.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\cfuentes\DES\SISU_2010\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Datos.dll.config
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Datos.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Datos.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Dominio.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Infraestructura.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Dominio.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\obj\Debug\Datos.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Datos\obj\Debug\Datos.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll.config
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll.config
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll.config
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll.config
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Datos.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Dominio.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\bin\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Datos\obj\Debug\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Datos.dll.config
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\bin\Debug\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Debug\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Datos\obj\Debug\Datos.pdb

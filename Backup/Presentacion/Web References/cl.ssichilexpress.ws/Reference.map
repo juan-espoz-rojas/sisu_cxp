@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100088_ConsultarComunaCoberturaIMPL/Resources/Schemas/ConsultarComunaCoberturaResp" filename="ConsultarComunaCoberturaResp.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100038_ConsultarRegionesIMPL/Resources/Schemas/ConsultarRegionesReq" filename="ConsultarRegionesReq.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100038_ConsultarRegionesIMPL/Resources/Schemas/ConsultarRegionesResp" filename="ConsultarRegionesResp.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?wsdl" filename="DireccionesSSO.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100088_ConsultarComunaCoberturaIMPL/Resources/Schemas/ConsultarComunaCoberturaReq" filename="ConsultarComunaCoberturaReq.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/UT000001_EsquemasComunes/Resources/Schemas/EBO/HeaderRequest" filename="HeaderRequest.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/UT000001_EsquemasComunes/Resources/Schemas/EBO/EstadoOperacion" filename="EstadoOperacion.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100039_ConsultarOficinasIMPL/Resources/Schemas/ConsultarOficinasReq" filename="ConsultarOficinasReq.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100037_ValidarDireccionIMPL/Resources/Schemas/ValidarDireccionReq" filename="ValidarDireccionReq.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/UT000001_EsquemasComunes/Resources/Schemas/EBO/HeaderResponse" filename="HeaderResponse.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100039_ConsultarOficinasIMPL/Resources/Schemas/ConsultarOficinasResp" filename="ConsultarOficinasResp.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://ws.ssichilexpress.cl/DireccionesSSO?SCHEMA/PX100037_ValidarDireccionIMPL/Resources/Schemas/ValidarDireccionResp" filename="ValidarDireccionResp.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>

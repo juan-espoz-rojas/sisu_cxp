@@ -1,0 +1,170 @@
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Negocio.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Negocio.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Datos.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Datos.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\obj\Debug\Negocio.dll
+C:\DESARROLLO\SISU\SISU\Negocio\obj\Debug\Negocio.pdb
+C:\DESARROLLO\SISU\SISU\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Negocio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\obj\Debug\Negocio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Negocio\obj\Debug\Negocio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Negocio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\obj\Debug\Negocio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Negocio\obj\Debug\Negocio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Negocio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Datos.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Datos.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\obj\Debug\Negocio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Negocio\obj\Debug\Negocio.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Negocio.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Negocio.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Datos.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Infraestructura.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\xtian\SISU_2010\Negocio\bin\Debug\Datos.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\xtian\SISU_2010\Negocio\bin\Debug\Infraestructura.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\xtian\SISU_2010\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\xtian\SISU_2010\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Negocio\obj\Debug\Negocio.dll
+F:\xtian\SISU_2010\Negocio\obj\Debug\Negocio.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Negocio.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Negocio.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Datos.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Infraestructura.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Datos.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Infraestructura.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\xtian\SISU_2010\Backup\Negocio\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\xtian\SISU_2010\Backup\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Backup\Negocio\obj\Debug\Negocio.dll
+F:\xtian\SISU_2010\Backup\Negocio\obj\Debug\Negocio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Negocio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Negocio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Datos.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Infraestructura.Exceptions.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Datos.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Datos.dll.config
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Infraestructura.Exceptions.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\bin\Debug\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\obj\Debug\Negocio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Negocio\obj\Debug\Negocio.pdb

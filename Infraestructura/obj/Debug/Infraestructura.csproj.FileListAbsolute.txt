@@ -1,0 +1,64 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura\bin\Debug\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Debug\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Infraestructura\bin\Debug\Infraestructura.dll
+F:\xtian\SISU_2010\Infraestructura\bin\Debug\Infraestructura.pdb
+F:\xtian\SISU_2010\Infraestructura\obj\Debug\Infraestructura.dll
+F:\xtian\SISU_2010\Infraestructura\obj\Debug\Infraestructura.pdb
+E:\xtian\SISU_2010\Infraestructura\bin\Debug\Infraestructura.dll
+E:\xtian\SISU_2010\Infraestructura\bin\Debug\Infraestructura.pdb
+E:\xtian\SISU_2010\Infraestructura\obj\Debug\Infraestructura.dll
+E:\xtian\SISU_2010\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura\bin\Debug\Infraestructura.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\cfuentes\DES\SISU_2010\Infraestructura\obj\Debug\Infraestructura.dll
+C:\cfuentes\DES\SISU_2010\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Helpnet\Documents\Proyecto ChilExpress\FUENTES\SISU\01-Fuentes\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Rene Figueroa\Documents\PEGA\DESARROLLO\A01_SISU\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Usuario\Downloads\Fuentes Aplicaciones-20191025T120142Z-001\Fuentes Aplicaciones\SISU\cxp-cl-sistema-sisu\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Debug\Infraestructura.pdb

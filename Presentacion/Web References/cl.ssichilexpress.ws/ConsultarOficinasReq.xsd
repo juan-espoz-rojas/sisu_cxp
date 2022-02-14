@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasReq" elementFormDefault="qualified" targetNamespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasReq" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="reqConsultarOficinas" type="ConsultarOficinasRequestType" />
+  <xs:complexType name="ConsultarOficinasRequestType">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="codRegion">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:maxLength value="3" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element minOccurs="0" maxOccurs="1" name="codOficina" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

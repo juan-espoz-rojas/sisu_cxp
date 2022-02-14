@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WL5G3N0:definitions xmlns:WL5G3N2="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:WL5G3N1="http://www.chilexpress.cl/DireccionesSSO/" name="DireccionesSSO" targetNamespace="http://www.chilexpress.cl/DireccionesSSO/" xmlns:WL5G3N0="http://schemas.xmlsoap.org/wsdl/">
+  <WL5G3N0:types>
+    <xs:schema xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://www.chilexpress.cl/DireccionesSSO/" xmlns:crrq="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarRegionesReq" xmlns:vdrq="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ValidarDireccionReq" xmlns:hdrq="http://ws.chilexpress.cl/OSB/EBO/HeaderRequest" xmlns:ccrq="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarComunaCoberturaReq" xmlns:corq="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasReq" xmlns:crrp="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarRegionesResp" xmlns:vdrp="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ValidarDireccionResp" xmlns:hdrp="http://ws.chilexpress.cl/OSB/EBO/HeaderResponse" xmlns:ccrp="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarComunaCoberturaResp" xmlns:corp="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasResp" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" elementFormDefault="qualified" targetNamespace="http://www.chilexpress.cl/DireccionesSSO/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FUT000001_EsquemasComunes%2FResources%2FSchemas%2FEBO%2FHeaderRequest" namespace="http://ws.chilexpress.cl/OSB/EBO/HeaderRequest" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FUT000001_EsquemasComunes%2FResources%2FSchemas%2FEBO%2FHeaderResponse" namespace="http://ws.chilexpress.cl/OSB/EBO/HeaderResponse" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100037_ValidarDireccionIMPL%2FResources%2FSchemas%2FValidarDireccionReq" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ValidarDireccionReq" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100037_ValidarDireccionIMPL%2FResources%2FSchemas%2FValidarDireccionResp" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ValidarDireccionResp" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100038_ConsultarRegionesIMPL%2FResources%2FSchemas%2FConsultarRegionesReq" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarRegionesReq" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100038_ConsultarRegionesIMPL%2FResources%2FSchemas%2FConsultarRegionesResp" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarRegionesResp" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100039_ConsultarOficinasIMPL%2FResources%2FSchemas%2FConsultarOficinasReq" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasReq" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100039_ConsultarOficinasIMPL%2FResources%2FSchemas%2FConsultarOficinasResp" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarOficinasResp" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100088_ConsultarComunaCoberturaIMPL%2FResources%2FSchemas%2FConsultarComunaCoberturaReq" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarComunaCoberturaReq" />
+      <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FPX100088_ConsultarComunaCoberturaIMPL%2FResources%2FSchemas%2FConsultarComunaCoberturaResp" namespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarComunaCoberturaResp" />
+      <xs:element name="headerRequest" type="hdrq:datosHeaderRequest" />
+      <xs:element name="headerResponse" type="hdrp:datosHeaderResponse" />
+      <xs:element name="ValidarDireccionRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="vdrq:reqValidarDireccion" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ValidarDireccionResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="vdrp:respValidarDireccion" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarRegionesRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="crrq:reqConsultarRegiones" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarRegionesResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="crrp:respConsultarRegiones" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarOficinasRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="corq:reqConsultarOficinas" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarOficinasResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="corp:respConsultarOficinas" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarComunaCoberturaRequest">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="ccrq:reqConsultarComunaCobertura" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarComunaCoberturaResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element ref="ccrp:respConsultarComunaCobertura" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+  </WL5G3N0:types>
+  <WL5G3N0:message name="ValidarDireccionReq">
+    <WL5G3N0:part name="ValidarDireccionReqParam" element="WL5G3N1:ValidarDireccionRequest" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ValidarDireccionResp">
+    <WL5G3N0:part name="ValidarDireccionRespParam" element="WL5G3N1:ValidarDireccionResponse" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ConsultarRegionesReq">
+    <WL5G3N0:part name="ConsultarRegionesReqParam" element="WL5G3N1:ConsultarRegionesRequest" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ConsultarRegionesResp">
+    <WL5G3N0:part name="ConsultarRegionesRespParam" element="WL5G3N1:ConsultarRegionesResponse" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ConsultarOficinasReq">
+    <WL5G3N0:part name="ConsultarOficinasReqParam" element="WL5G3N1:ConsultarOficinasRequest" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ConsultarOficinasResp">
+    <WL5G3N0:part name="ConsultarOficinasRespParam" element="WL5G3N1:ConsultarOficinasResponse" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ConsultarComunaCoberturaReq">
+    <WL5G3N0:part name="ConsultarComunaCoberturaReqParam" element="WL5G3N1:ConsultarComunaCoberturaRequest" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="ConsultarComunaCoberturaResp">
+    <WL5G3N0:part name="ConsultarComunaCoberturaRespParam" element="WL5G3N1:ConsultarComunaCoberturaResponse" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="headerRequestMessage">
+    <WL5G3N0:part name="headerRequest" element="WL5G3N1:headerRequest" />
+  </WL5G3N0:message>
+  <WL5G3N0:message name="headerResponseMessage">
+    <WL5G3N0:part name="headerResponse" element="WL5G3N1:headerResponse" />
+  </WL5G3N0:message>
+  <WL5G3N0:portType name="DireccionesSSOPT">
+    <WL5G3N0:operation name="ValidarDireccionOp">
+      <WL5G3N0:input message="WL5G3N1:ValidarDireccionReq" />
+      <WL5G3N0:output message="WL5G3N1:ValidarDireccionResp" />
+    </WL5G3N0:operation>
+    <WL5G3N0:operation name="ConsultarRegionesOp">
+      <WL5G3N0:input message="WL5G3N1:ConsultarRegionesReq" />
+      <WL5G3N0:output message="WL5G3N1:ConsultarRegionesResp" />
+    </WL5G3N0:operation>
+    <WL5G3N0:operation name="ConsultarOficinasOp">
+      <WL5G3N0:input message="WL5G3N1:ConsultarOficinasReq" />
+      <WL5G3N0:output message="WL5G3N1:ConsultarOficinasResp" />
+    </WL5G3N0:operation>
+    <WL5G3N0:operation name="ConsultarComunaCoberturaOp">
+      <WL5G3N0:input message="WL5G3N1:ConsultarComunaCoberturaReq" />
+      <WL5G3N0:output message="WL5G3N1:ConsultarComunaCoberturaResp" />
+    </WL5G3N0:operation>
+  </WL5G3N0:portType>
+  <WL5G3N0:binding name="DireccionesSSOSOAP" type="WL5G3N1:DireccionesSSOPT">
+    <WL5G3N2:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <WL5G3N0:operation name="ValidarDireccionOp">
+      <WL5G3N2:operation soapAction="" style="document" />
+      <WL5G3N0:input>
+        <WL5G3N2:header message="WL5G3N1:headerRequestMessage" part="headerRequest" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:input>
+      <WL5G3N0:output>
+        <WL5G3N2:header message="WL5G3N1:headerResponseMessage" part="headerResponse" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:output>
+    </WL5G3N0:operation>
+    <WL5G3N0:operation name="ConsultarRegionesOp">
+      <WL5G3N2:operation soapAction="" style="document" />
+      <WL5G3N0:input>
+        <WL5G3N2:header message="WL5G3N1:headerRequestMessage" part="headerRequest" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:input>
+      <WL5G3N0:output>
+        <WL5G3N2:header message="WL5G3N1:headerResponseMessage" part="headerResponse" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:output>
+    </WL5G3N0:operation>
+    <WL5G3N0:operation name="ConsultarOficinasOp">
+      <WL5G3N2:operation soapAction="" style="document" />
+      <WL5G3N0:input>
+        <WL5G3N2:header message="WL5G3N1:headerRequestMessage" part="headerRequest" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:input>
+      <WL5G3N0:output>
+        <WL5G3N2:header message="WL5G3N1:headerResponseMessage" part="headerResponse" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:output>
+    </WL5G3N0:operation>
+    <WL5G3N0:operation name="ConsultarComunaCoberturaOp">
+      <WL5G3N2:operation soapAction="" style="document" />
+      <WL5G3N0:input>
+        <WL5G3N2:header message="WL5G3N1:headerRequestMessage" part="headerRequest" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:input>
+      <WL5G3N0:output>
+        <WL5G3N2:header message="WL5G3N1:headerResponseMessage" part="headerResponse" use="literal" />
+        <WL5G3N2:body use="literal" />
+      </WL5G3N0:output>
+    </WL5G3N0:operation>
+  </WL5G3N0:binding>
+  <WL5G3N0:service name="DireccionesSSO">
+    <WL5G3N0:port name="DireccionesSSOSOAP" binding="WL5G3N1:DireccionesSSOSOAP">
+      <WL5G3N2:address location="http://ws.ssichilexpress.cl/DireccionesSSO" />
+    </WL5G3N0:port>
+  </WL5G3N0:service>
+</WL5G3N0:definitions>

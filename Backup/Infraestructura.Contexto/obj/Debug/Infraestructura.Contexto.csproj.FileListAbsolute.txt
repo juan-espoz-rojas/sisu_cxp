@@ -1,0 +1,51 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\SISU\SISU\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\cfuentes\Desktop\cfuentes\DES\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\bin\Debug\Dominio.dll
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csprojResolveAssemblyReference.cache
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+F:\xtian\SISU_2010\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\bin\Debug\Infraestructura.Contexto.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\bin\Debug\Dominio.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\bin\Debug\Dominio.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.csproj.CopyComplete
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Backup\Infraestructura.Contexto\obj\Debug\Infraestructura.Contexto.pdb

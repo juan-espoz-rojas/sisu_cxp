@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>\\Desintranet7\sisu$</_PublishTargetUrl>
+    <History>True|2022-02-11T19:57:22.6344142Z;False|2022-02-11T16:55:05.7016067-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AccesoDenegado.aspx">
+      <publishTime>02/04/2022 15:37:34</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="bin/AjaxMin.dll">
+      <publishTime>07/22/2013 12:51:08</publishTime>
+    </File>
+    <File Include="bin/Datos.dll">
+      <publishTime>02/11/2022 16:53:33</publishTime>
+    </File>
+    <File Include="bin/Datos.dll.config">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Datos.pdb">
+      <publishTime>02/11/2022 16:53:33</publishTime>
+    </File>
+    <File Include="bin/Datos.XmlSerializers.dll">
+      <publishTime>02/11/2022 16:53:34</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:28</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/Dominio.dll">
+      <publishTime>02/08/2022 15:43:27</publishTime>
+    </File>
+    <File Include="bin/Dominio.pdb">
+      <publishTime>02/08/2022 15:43:27</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:28</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:30</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>08/06/2012 17:31:50</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.pdb">
+      <publishTime>08/06/2012 17:31:50</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.Contexto.dll">
+      <publishTime>02/11/2022 16:53:33</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.Contexto.pdb">
+      <publishTime>02/11/2022 16:53:33</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.dll">
+      <publishTime>02/08/2022 15:43:27</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.Exceptions.dll">
+      <publishTime>02/11/2022 16:53:34</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.Exceptions.pdb">
+      <publishTime>02/11/2022 16:53:34</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.pdb">
+      <publishTime>02/08/2022 15:43:27</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.WebConstrols.dll">
+      <publishTime>02/11/2022 16:53:34</publishTime>
+    </File>
+    <File Include="bin/Infraestructura.WebConstrols.pdb">
+      <publishTime>02/11/2022 16:53:34</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:30</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:22</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:30</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:22</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:30</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>12/12/2012 08:01:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.pdb">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.pdb">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.pdb">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>01/28/2022 18:41:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.pdb">
+      <publishTime>01/28/2022 18:41:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Configuration.dll">
+      <publishTime>09/18/2012 15:48:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>10/11/2013 13:28:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>10/11/2013 13:28:44</publishTime>
+    </File>
+    <File Include="bin/Negocio.dll">
+      <publishTime>02/11/2022 16:53:35</publishTime>
+    </File>
+    <File Include="bin/Negocio.pdb">
+      <publishTime>02/11/2022 16:53:35</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2022 18:41:46</publishTime>
+    </File>
+    <File Include="bin/Presentacion.dll">
+      <publishTime>02/11/2022 16:55:02</publishTime>
+    </File>
+    <File Include="bin/Presentacion.pdb">
+      <publishTime>02/11/2022 16:55:02</publishTime>
+    </File>
+    <File Include="bin/Presentacion.XmlSerializers.dll">
+      <publishTime>02/11/2022 16:55:02</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:22</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:30</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2022 18:41:44</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>12/12/2012 08:01:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2022 18:41:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2022 18:41:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:28</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>12/12/2012 08:01:20</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>12/12/2012 08:01:28</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>12/12/2012 08:01:14</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/animated-overlay.gif">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery-ui.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.accordion.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.all.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.autocomplete.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.base.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.button.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.core.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.datepicker.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.dialog.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.menu.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.progressbar.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.resizable.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.selectable.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.slider.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.spinner.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tabs.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.theme.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tooltip.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/animated-overlay.gif">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_222222_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_454545_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_888888_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery-ui.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.accordion.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.autocomplete.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.button.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.core.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.datepicker.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.dialog.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.menu.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.progressbar.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.resizable.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.selectable.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.slider.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.spinner.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tabs.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.theme.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tooltip.min.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Dll/AjaxControlToolkit.dll">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Dll/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Dll/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Dll/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>02/04/2022 15:16:21</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/03/2022 19:14:22</publishTime>
+    </File>
+    <File Include="Resources/CSS/Fonts.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/icons/fonts/cxp-icons.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/icons/style.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-icons_222222_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-icons_454545_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-icons_888888_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/jquery-ui.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/CSS/style.css">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_bolditalic_spanish/Uni_Sans_BoldItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_bold_spanish/Uni_Sans_Bold-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_bookitalic_spanish/Uni_Sans_BookItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_book_spanish/Uni_Sans_Book-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_heavyitalic_spanish/Uni_Sans_HeavyItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_heavy_spanish/Uni_Sans_Heavy-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_italic_spanish/Uni_Sans_RegularItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_lightitalic_spanish/Uni_Sans_LightItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_light_spanish/Uni_Sans_Light-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_regular_spanish/Uni_Sans_Regular-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_semibolditalic_spanish/Uni_Sans_SemiBoldItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_semibold_spanish/Uni_Sans_Semi_Bold-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_thinitalic_spanish/Uni_Sans_ThinItalic-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/fonts/unisans_thin_spanish/Uni_Sans_Thin-webfont.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Images/error.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Images/favicon.ico">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Images/Info.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Images/Loading.gif">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Images/warn.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Images/Warning.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/cxp-logo-black.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/cxp-logo-black.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/cxp-logo.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/cxp-logo.svg">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/horizontal-divider-s.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/peso.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/range-handle.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/required.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/sprite.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/img/txtr-dark.png">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery-1.10.1.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery-2.0.3.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery-ui-1.10.3.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery.backgroundSize.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery.hammer.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery.placeholder.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery.stickyelement.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jquery.tools.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/jsValidacion.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/modernizr-2.5.3.custom.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/object.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/processing-1.4.1.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/range.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/responsiveCarousel.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/script-navegable.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Resources/Scripts/scripts.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.0.3-vsdoc.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.0.3.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.0.3.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.10.3.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.10.3.min.js">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+    <File Include="SISU.Master">
+      <publishTime>02/09/2022 13:48:22</publishTime>
+    </File>
+    <File Include="Views/IngresoServicioUrb.aspx">
+      <publishTime>02/07/2022 09:39:57</publishTime>
+    </File>
+    <File Include="Views/TCCs.aspx">
+      <publishTime>02/04/2022 15:39:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/11/2022 16:56:29</publishTime>
+    </File>
+    <File Include="WebServices/ServicioDirecciones.asmx">
+      <publishTime>01/28/2022 18:41:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,478 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Practices.EnterpriseLibrary.Data;
+using Microsoft.Practices.EnterpriseLibrary.Data.Sql;
+using Datos.General;
+using Dominio.Objects;
+using System.Data;
+using Infraestructura;
+using System.Data.SqlClient;
+using Infraestructura.Contexto;
+
+namespace Datos.SISU
+{
+    public class DIngresoServUrb
+    {
+        #region Private Members
+        private Database BDSigo;
+        private Database BDExp_Corp;
+        private Database BDExp_Inhouse;
+        private Database BDExp_Clientes;
+        private Database BDExp_Retiros;
+        #endregion Private Members
+
+        #region Constructors
+        public DIngresoServUrb()
+        {
+            SqlDatabase BDsig = new SqlDatabase(Registreria.ConstantesRegistry(Registreria.SISU, "SIGO"));
+            SqlDatabase BDcorp = new SqlDatabase(Registreria.ConstantesRegistry(Registreria.SISU, "EXP_CORP"));
+            SqlDatabase Bdinhouse = new SqlDatabase(Registreria.ConstantesRegistry(Registreria.SISU, "EXP_INHOUSE"));
+            SqlDatabase BDclientes = new SqlDatabase(Registreria.ConstantesRegistry(Registreria.SISU, "EXP_CLIENTES"));
+            SqlDatabase BDretiros = new SqlDatabase(Registreria.ConstantesRegistry(Registreria.SISU, "EXP_RETIROS"));
+            this.BDSigo = BDsig;
+            this.BDExp_Corp = BDcorp;
+            this.BDExp_Inhouse = Bdinhouse;
+            this.BDExp_Clientes = BDclientes;
+            this.BDExp_Retiros = BDretiros;
+        }
+        #endregion Constructors
+
+        #region Public Methods
+
+        public List<Direccion> ConsultaDireccionesRetiroTCC(int NroTCC)
+        {
+            List<Direccion> Lista = new List<Direccion>();
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDExp_Retiros.ExecuteReader("PR_S_RETIROS_CONSULTA_DIRECCION_TCC", NroTCC, "RM");
+                while (dr.Read())
+                {
+                    Direccion Direccion = new Direccion();
+
+                    if (dr["Nro_Error"] != DBNull.Value)
+                    {
+                        if (Converts.ConvertToInt(dr["Nro_Error"]) != 0)
+                            break;
+                        else
+                        {
+
+                            if (dr["IndDireccionTCCRet"] != DBNull.Value)
+                                Direccion.IndiceDireccion = Converts.ConvertToInt(dr["IndDireccionTCCRet"]);
+                            if (dr["NroTCC"] != DBNull.Value)
+                                Direccion.NroTCC = Converts.ConvertToDecimal(dr["NroTCC"]);
+                            if (dr["DireccionTCCRet"] != DBNull.Value)
+                                Direccion.NDireccion = Converts.ConvertToString(dr["DireccionTCCRet"]);
+                            if (dr["Numeracion"] != DBNull.Value)
+                                Direccion.Numeracion = Converts.ConvertToInt(dr["Numeracion"]);
+                            if (dr["CarAnt"] != DBNull.Value)
+                                Direccion.CarAnt = Converts.ConvertToString(dr["CarAnt"]);
+                            if (dr["CarPos"] != DBNull.Value)
+                                Direccion.CarPos = Converts.ConvertToString(dr["CarPos"]);
+                            if (dr["Comuna"] != DBNull.Value)
+                                Direccion.CodComuna = Converts.ConvertToString(dr["Comuna"]);
+                            if (dr["CodCobertura"] != DBNull.Value)
+                                Direccion.CodCobertura = Converts.ConvertToString(dr["CodCobertura"]);
+                            if (dr["Contacto"] != DBNull.Value)
+                                Direccion.NombreContacto = Converts.ConvertToString(dr["Contacto"]);
+                            if (dr["Telefono"] != DBNull.Value)
+                                Direccion.Telefono = Converts.ConvertToString(dr["Telefono"]);
+                            if (dr["LugarRetiro"] != DBNull.Value)
+                                Direccion.LugarRetiro = Converts.ConvertToString(dr["LugarRetiro"]);
+                            if (dr["CodEstado"] != DBNull.Value)
+                                Direccion.CodEstado = Converts.ConvertToInt(dr["CodEstado"]);
+                            if (dr["CodBlock"] != DBNull.Value)
+                                Direccion.CodBlock = Converts.ConvertToDecimal(dr["CodBlock"]);
+                            if (dr["IDDireccion"] != DBNull.Value)
+                                Direccion.IdDireccion = Converts.ConvertToDecimal(dr["IDDireccion"]);
+                            if (dr["Lat"] != DBNull.Value)
+                                Direccion.Latitud = Converts.ConvertToDecimal(dr["Lat"]);
+                            if (dr["lon"] != DBNull.Value)
+                                Direccion.Longitud = Converts.ConvertToDecimal(dr["lon"]);
+
+                            StringBuilder DirCmp = new StringBuilder();
+                            DirCmp.Append(Direccion.NDireccion.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CarAnt.Trim());
+                            DirCmp.Append(Direccion.Numeracion);
+                            DirCmp.Append(Direccion.CarPos.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CodComuna.Trim());
+                            Direccion.DireccionCompleta = DirCmp.ToString();
+
+                            Lista.Add(Direccion);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                dr.Close();
+            }
+            return Lista;
+        }
+        public List<Direccion> ConsultaDireccionesEntregaTCC(int NroTCC)
+        {
+            List<Direccion> Lista = new List<Direccion>();
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDSigo.ExecuteReader("pr_s_SIGO_Consulta_Direccion_Tcc", NroTCC, "RM");
+                while (dr.Read())
+                {
+                    Direccion Direccion = new Direccion();
+                    if (dr["Nro_Error"] != DBNull.Value)
+                    {
+                        if (Converts.ConvertToInt(dr["Nro_Error"]) != 0)
+                            break;
+                        else
+                        {
+                            if (dr["CodDireccion"] != DBNull.Value)
+                                Direccion.IndiceDireccion = Converts.ConvertToInt(dr["CodDireccion"]);
+                            if (dr["NroTCC"] != DBNull.Value)
+                                Direccion.NroTCC = Converts.ConvertToDecimal(dr["NroTCC"]);
+                            if (dr["DireccionOt"] != DBNull.Value)
+                                Direccion.NDireccion = Converts.ConvertToString(dr["DireccionOt"]);
+                            if (dr["Numeracion"] != DBNull.Value)
+                                Direccion.Numeracion = Converts.ConvertToInt(dr["Numeracion"]);
+                            if (dr["CarAnt"] != DBNull.Value)
+                                Direccion.CarAnt = Converts.ConvertToString(dr["CarAnt"]);
+                            if (dr["CarPos"] != DBNull.Value)
+                                Direccion.CarPos = Converts.ConvertToString(dr["CarPos"]);
+                            if (dr["Comuna"] != DBNull.Value)
+                                Direccion.CodComuna = Converts.ConvertToString(dr["Comuna"]);
+                            if (dr["CodCobertura"] != DBNull.Value)
+                                Direccion.CodCobertura = Converts.ConvertToString(dr["CodCobertura"]);
+                            if (dr["NombreEntrega"] != DBNull.Value)
+                                Direccion.NombreContacto = Converts.ConvertToString(dr["NombreEntrega"]);
+                            if (dr["Telefono"] != DBNull.Value)
+                                Direccion.Telefono = Converts.ConvertToString(dr["Telefono"]);
+                            if (dr["CodBlock"] != DBNull.Value)
+                                Direccion.CodBlock = Converts.ConvertToDecimal(dr["CodBlock"]);
+                            if (dr["IDDireccion"] != DBNull.Value)
+                                Direccion.IdDireccion = Converts.ConvertToDecimal(dr["IDDireccion"]);
+                            if (dr["Lat"] != DBNull.Value)
+                                Direccion.Latitud = Converts.ConvertToDecimal(dr["Lat"]);
+                            if (dr["lon"] != DBNull.Value)
+                                Direccion.Longitud = Converts.ConvertToDecimal(dr["lon"]);
+
+                            StringBuilder DirCmp = new StringBuilder();
+                            DirCmp.Append(Direccion.NDireccion.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CarAnt.Trim());
+                            DirCmp.Append(Direccion.Numeracion);
+                            DirCmp.Append(Direccion.CarPos.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CodComuna.Trim());
+                            Direccion.DireccionCompleta = DirCmp.ToString();
+
+                            Lista.Add(Direccion);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                dr.Close();
+            }
+            return Lista;
+        }
+        public List<string> ConsultaDireccionStr(string Dir)
+        {
+            List<string> Lista = new List<string>();
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDExp_Inhouse.ExecuteReader("pr_s_FormateaDireccion", Dir);
+                while (dr.Read())
+                {
+                    Direccion Direccion = new Direccion();
+                    if (dr["LpResultado"] != DBNull.Value)
+                    {
+                        if ((Converts.ConvertToInt(dr["LpResultado"]) != 20) && (Converts.ConvertToInt(dr["LpResultado"]) != 15))
+                            break;
+                        //LpGlsResultado
+                        else
+                        {
+                            if (dr["lpNombreCalle"] != DBNull.Value)
+                                Direccion.NDireccion = Converts.ConvertToString(dr["lpNombreCalle"]);
+                            if (dr["LpNumeracion"] != DBNull.Value)
+                                Direccion.Numeracion = Converts.ConvertToInt(dr["LpNumeracion"]);
+                            if (dr["LpCan"] != DBNull.Value)
+                                Direccion.CarAnt = Converts.ConvertToString(dr["LpCan"]);
+                            if (dr["LpCpn"] != DBNull.Value)
+                                Direccion.CarPos = Converts.ConvertToString(dr["LpCpn"]);
+                            if (dr["LpComplemento"] != DBNull.Value)
+                                Direccion.Complemento = Converts.ConvertToString(dr["LpComplemento"]);
+                            if (dr["LpComuna"] != DBNull.Value)
+                                Direccion.CodComuna = Converts.ConvertToString(dr["LpComuna"]);
+
+                            StringBuilder DirCmp = new StringBuilder();
+                            DirCmp.Append(Direccion.NDireccion.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CarAnt.Trim());
+                            DirCmp.Append(Direccion.Numeracion);
+                            DirCmp.Append(Direccion.CarPos.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CodComuna.Trim());
+                            if (Direccion.Complemento.Trim().Length > 0)
+                            {
+                                DirCmp.Append(", ");
+                                DirCmp.Append(Direccion.Complemento.Trim());
+                            }
+                            Direccion.DireccionCompleta = DirCmp.ToString();
+                            Lista.Add(Direccion.DireccionCompleta);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                dr.Close();
+            }
+            return Lista;
+        }
+        public Direccion ConsultaDireccionExacta(string Dir)
+        {
+            Direccion Direccion = null;
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDExp_Inhouse.ExecuteReader("pr_s_FormateaDireccion", Dir);
+                if (dr.Read())
+                {
+                    if (dr["LpResultado"] != DBNull.Value)
+                    {
+                        if (Converts.ConvertToInt(dr["LpResultado"]) == 15)
+                        {
+                            Direccion = new Direccion();
+                            if (dr["lpNombreCalle"] != DBNull.Value)
+                                Direccion.NDireccion = Converts.ConvertToString(dr["lpNombreCalle"]);
+                            if (dr["LpNumeracion"] != DBNull.Value)
+                                Direccion.Numeracion = Converts.ConvertToInt(dr["LpNumeracion"]);
+                            if (dr["LpCan"] != DBNull.Value)
+                                Direccion.CarAnt = Converts.ConvertToString(dr["LpCan"]);
+                            if (dr["LpCpn"] != DBNull.Value)
+                                Direccion.CarPos = Converts.ConvertToString(dr["LpCpn"]);
+                            if (dr["LpComplemento"] != DBNull.Value)
+                                Direccion.Complemento = Converts.ConvertToString(dr["LpComplemento"]);
+                            if (dr["LpComuna"] != DBNull.Value)
+                                Direccion.CodComuna = Converts.ConvertToString(dr["LpComuna"]);
+                            if (dr["LpCodComuna"] != DBNull.Value)
+                                Direccion.CodCobertura = Converts.ConvertToString(dr["LpCodComuna"]);
+                            if (dr["LpSegmento"] != DBNull.Value)
+                                Direccion.Segmento = Converts.ConvertToDecimal(dr["LpSegmento"]);
+                            if (dr["LpBlock"] != DBNull.Value)
+                                Direccion.CodBlock = Converts.ConvertToDecimal(dr["LpBlock"]);
+                            if (dr["LpDireccion"] != DBNull.Value)
+                                Direccion.IdDireccion = Converts.ConvertToDecimal(dr["LpDireccion"]);
+                            if (dr["LpLat"] != DBNull.Value)
+                                Direccion.Latitud = Converts.ConvertToDecimal(dr["LpLat"]);
+                            if (dr["LpLon"] != DBNull.Value)
+                                Direccion.Longitud = Converts.ConvertToDecimal(dr["LpLon"]);
+
+                            StringBuilder DirCmp = new StringBuilder();
+                            DirCmp.Append(Direccion.NDireccion.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CarAnt.Trim());
+                            DirCmp.Append(Direccion.Numeracion);
+                            DirCmp.Append(Direccion.CarPos.Trim());
+                            DirCmp.Append(", ");
+                            DirCmp.Append(Direccion.CodComuna.Trim());
+                            if (Direccion.Complemento.Trim().Length > 0)
+                            {
+                                DirCmp.Append(", ");
+                                DirCmp.Append(Direccion.Complemento.Trim());
+                            }
+                            Direccion.DireccionCompleta = DirCmp.ToString();
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                dr.Close();
+            }
+            return Direccion;
+        }
+        public List<Valorizacion> ObtieneValorizacionServicios(string CodCoberturaOri, string CodCoberturaDes, int Producto, decimal Peso, int Alto, int Ancho, int Largo)
+        {
+            
+            List<Valorizacion> respuesta = new List<Valorizacion>();;
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDExp_Corp.ExecuteReader("pr_s_ValorizaCourier_SU", CodCoberturaOri, CodCoberturaDes, Producto, Peso, Alto, Ancho, Largo,0);
+                while (dr.Read())
+                {
+                    if (dr["COD_ERROR"] != DBNull.Value)
+                    {
+                        if (Converts.ConvertToInt(dr["COD_ERROR"]) != 0)
+                        {
+                            //if (dr["GLS_ERROR"] != DBNull.Value)
+                            //    throw new exce Converts.ConvertToString(dr["GLS_ERROR"]);
+                            break;
+                        }
+                        else
+                        {
+                            Valorizacion Val = new Valorizacion();
+                            if (dr["COD_SERVICIO"] != DBNull.Value)
+                                Val.Cod_servicio = Converts.ConvertToInt(dr["COD_SERVICIO"]);
+                            if (dr["NOM_SERVICIO"] != DBNull.Value)
+                                Val.Nom_servicio = Converts.ConvertToString(dr["NOM_SERVICIO"]);
+                            if (dr["COD_PRODUCTO"] != DBNull.Value)
+                                Val.Cod_producto = Converts.ConvertToInt(dr["COD_PRODUCTO"]);
+                            if (dr["VALOR_NORMAL"] != DBNull.Value)
+                                Val.Valor_normal = Converts.ConvertToDecimal(dr["VALOR_NORMAL"]);
+                            if (dr["PORCENTAJE_SERVICIO"] != DBNull.Value)
+                                Val.Porcentaje_servicio = Converts.ConvertToDecimal(dr["PORCENTAJE_SERVICIO"]);
+                            if (dr["TASA_ORIGEN"] != DBNull.Value)
+                                Val.Tasa_origen = Converts.ConvertToDecimal(dr["TASA_ORIGEN"]);
+                            if (dr["TASA_DESTINO"] != DBNull.Value)
+                                Val.Tasa_destino = Converts.ConvertToDecimal(dr["TASA_DESTINO"]);
+                            if (dr["TIPO_TARIFA"] != DBNull.Value)
+                                Val.Tipo_tarifa = Converts.ConvertToInt(dr["TIPO_TARIFA"]);
+                            if (dr["VALOR"] != DBNull.Value)
+                                Val.Valor = Converts.ConvertToDecimal(dr["VALOR"]);
+                            if (dr["INDPESOVOL"] != DBNull.Value)
+                                Val.IndPesoVol = Converts.ConvertToInt(dr["INDPESOVOL"]);
+                            if (dr["PESO_CALCULO"] != DBNull.Value)
+                                Val.Peso_calculo = Converts.ConvertToDecimal(dr["PESO_CALCULO"]);
+                            if (dr["GLS_ENTREGA"] != DBNull.Value)
+                                Val.Gls_entrega = Converts.ConvertToString(dr["GLS_ENTREGA"]);
+                            respuesta.Add(Val);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex) { throw ex; }
+            finally{dr.Close();}
+
+            return respuesta;
+        }
+        public List<ulong> RegistraServicioUrbano(ServicioUrbano Servicio)
+        {
+            List<ulong> Resultado = new List<ulong>();
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDSigo.ExecuteReader("pr_i_SISU_OT",
+                        Servicio.TipoServicio,//@nroServicio              INT
+                        Servicio.Producto.Cod_producto,//@tipoProducto             INT
+                        Servicio.DirRemitente.NombreContacto,//@nombreRemitente          VARCHAR(200)
+                        Servicio.DirRemitente.Mail,//@correoRemitente          VARCHAR(200)
+                        Servicio.DirRemitente.Telefono,//@telefonoRemitente        VARCHAR(15)
+                        Servicio.DirRemitente.CodComuna,//@glsComunaOrigen          VARCHAR(200)
+                        Servicio.DirRemitente.NDireccion,//@nomCalleOrigen           VARCHAR(100)
+                        Servicio.DirRemitente.Numeracion,//@numCalleOrigen           INT
+                        Servicio.DirRemitente.CarAnt,//@canOrigen                CHAR(4)
+                        Servicio.DirRemitente.CarPos,//@cpnOrigen                CHAR(4)
+                        Servicio.DirRemitente.Latitud,//@latitudOrigen            NUMERIC(11,8)
+                        Servicio.DirRemitente.Longitud,//@longitudOrigen           NUMERIC(11,8)
+                        Servicio.DirDestino.NombreContacto,//@nombreDestinatario       VARCHAR(200)
+                        Servicio.DirDestino.Mail,//@correoDestinatario       VARCHAR(200)
+                        Servicio.DirDestino.Telefono,//@telefonoDestinatario     VARCHAR(15)
+                        Servicio.DirDestino.CodComuna,//@glsComunaDestino         VARCHAR(200)
+                        Servicio.DirDestino.NDireccion,//@nomCalleDestino          VARCHAR(100)
+                        Servicio.DirDestino.Numeracion,//@numCalleDestino          INT
+                        Servicio.DirDestino.CarAnt,//@canDestino               CHAR(4)
+                        Servicio.DirDestino.CarPos,//@cpnDestino               CHAR(4)
+                        Servicio.DirDestino.Latitud,//@latitudDestino           NUMERIC(11,8)
+                        Servicio.DirDestino.Longitud,//@longitudDestino          NUMERIC(11,8)
+                        Servicio.DirDestino.NroTCC,//@nroTCC                   INT
+                        Servicio.ValorServicio,//@mtoServicio              INT
+                        DateTime.Now,//@fechaCreacion            DATETIME
+                        ContextoUsuario.UsuarioRut,//@rutUsCreacion            INT
+                        Servicio.IP,//@ipCreacion               VARCHAR(20)
+                        Servicio.DimPeso,//@PesoOT                   FLOAT
+                        Servicio.DimLargo,//@LargoPza                 INT    
+                        Servicio.DimAncho,//@AnchoPza                 INT    
+                        Servicio.DimAlto,//@AltoPza                  INT
+                        Servicio.DirRemitente.CodBlock,//@Id_Block_Origen          NUMERIC(12)
+                        Servicio.DirRemitente.IdDireccion,//@Id_Direccion_Origen      VARCHAR(50)  
+                        Servicio.DirDestino.CodBlock,//@Id_Block_Destino         NUMERIC(12)
+                        Servicio.DirDestino.IdDireccion//@Id_Direccion_Destino     VARCHAR(50))
+                        );
+
+                if (dr.Read())
+                {
+
+                    if (dr["NRO_ERROR"] != DBNull.Value)
+                    {
+                        if (Converts.ConvertToInt(dr["NRO_ERROR"]) == 0)
+                        {
+                            if (dr["NRO_OT"] != DBNull.Value)
+                                Resultado.Add(Convert.ToUInt64(dr["NRO_OT"]));
+                            if (dr["NRO_RETIRO"] != DBNull.Value)
+                                Resultado.Add(Convert.ToUInt64(dr["NRO_RETIRO"]));
+                        }
+                        else
+                            throw new Exception(Converts.ConvertToString((dr["MSG_ERROR"] != DBNull.Value) ? dr["MSG_ERROR"] : "Error SP pr_i_SISU_OT"));
+                    }
+                }
+            }
+            catch (Exception ex) { throw ex; }
+            finally { dr.Close(); }
+            return Resultado;
+        }
+        public List<Producto> ObtenerServiciosUrbanos()
+        {
+            List<Producto> Lista = new List<Producto>();
+            IDataReader dr = null;
+            try
+            {
+                dr = this.BDSigo.ExecuteReader("pr_s_SIGO_Busca_Productos",1 );
+                while (dr.Read())
+                {
+                    Producto atach = new Producto();
+                    if (dr["cod_error"] != DBNull.Value)
+                    {
+                        if (Converts.ConvertToInt(dr["cod_error"]) != 0)
+                            throw new Exception(Converts.ConvertToString(dr["gls_error"]));
+                        else
+                        {
+                            if (dr["cod_producto"] != DBNull.Value)
+                                atach.Cod_producto = Converts.ConvertToInt(dr["cod_producto"]);
+                            if (dr["gls_producto"] != DBNull.Value)
+                                atach.Gls_producto = Converts.ConvertToString(dr["gls_producto"]);
+                            if (dr["Peso_Min"] != DBNull.Value)
+                                atach.Peso_Min = Converts.ConvertToDecimal(dr["Peso_Min"]); 
+                            if (dr["Peso_Max"] != DBNull.Value)
+                                atach.Peso_Max = Converts.ConvertToDecimal(dr["Peso_Max"]);
+                            if (dr["Dimension_Min"] != DBNull.Value)
+                                atach.Dimension_Min = Converts.ConvertToDecimal(dr["Dimension_Min"]);
+                            if (dr["Dimension_Max"] != DBNull.Value)
+                                atach.Dimension_Max = Converts.ConvertToDecimal(dr["Dimension_Max"]);
+
+                            Lista.Add(atach);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex) { throw ex; }
+            finally{dr.Close();}
+            return Lista;
+        }
+
+       #endregion Public Methods
+
+    }
+}

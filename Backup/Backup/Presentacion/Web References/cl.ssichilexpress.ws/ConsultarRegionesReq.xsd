@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarRegionesReq" elementFormDefault="qualified" targetNamespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarRegionesReq" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="reqConsultarRegiones" type="ConsultarRegionesRequestType" />
+  <xs:complexType name="ConsultarRegionesRequestType">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="codZona" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

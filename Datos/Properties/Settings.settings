@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Datos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Datos_WsAutentificacion_ServicioAutentificacion" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://pangue/WS_SAU/ServiciosSistemaAutentificacionUsuario.asmx</Value>
+    </Setting>
+    <Setting Name="Datos_DireccionesSSO_DireccionesSSO" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.ssichilexpress.cl/DireccionesSSO</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

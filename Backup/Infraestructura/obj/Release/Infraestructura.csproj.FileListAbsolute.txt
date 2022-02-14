@@ -1,0 +1,5 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura\bin\Release\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura\bin\Release\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Release\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Release\Infraestructura.pdb

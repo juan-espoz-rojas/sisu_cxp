@@ -1,0 +1,30 @@
+C:\DESARROLLO\SISU\SISU\Infraestructura\bin\Release\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura\bin\Release\Infraestructura.pdb
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Release\Infraestructura.dll
+C:\DESARROLLO\SISU\SISU\Infraestructura\obj\Release\Infraestructura.pdb
+F:\xtian\SISU_2010\Infraestructura\bin\Release\Infraestructura.dll
+F:\xtian\SISU_2010\Infraestructura\bin\Release\Infraestructura.pdb
+F:\xtian\SISU_2010\Infraestructura\obj\Release\Infraestructura.dll
+F:\xtian\SISU_2010\Infraestructura\obj\Release\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Release\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Release\Infraestructura.pdb
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.csprojResolveAssemblyReference.cache
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.dll
+C:\JCRH\SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Release\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Release\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Release\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\bin\Release\Infraestructura.pdb
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.csprojResolveAssemblyReference.cache
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.dll
+C:\JCRH\00 - CXP 2020\4 - SISU\cxp-cl-sistema-sisu ultimo\src\cxp-cl-sistema-sisu\src\Infraestructura\obj\Release\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\bin\Release\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\bin\Release\Infraestructura.pdb
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Release\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Release\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Release\Infraestructura.dll
+C:\Users\luisp\OneDrive\Desktop\BirchmanDST\Codigo fuente de SISU\app\Infraestructura\obj\Release\Infraestructura.pdb

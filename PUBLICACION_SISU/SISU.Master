@@ -1,0 +1,82 @@
+﻿<%@ Master 
+Language="C#" 
+AutoEventWireup="true"
+CodeBehind="SISU.master.cs"
+Inherits="Presentacion.SISU" 
+%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+        <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" /> 
+
+	    <title>Chilexpress: Ingreso de Servicios Urbanos</title>
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700italic,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" media="all" href="~/Resources/CSS/style.css">
+        <link rel="stylesheet" media="all" href="~/Resources/CSS/icons/style.css">
+        <link rel="stylesheet" media="all" href="~/Resources/CSS/jquery-ui.css">
+        <link rel="icon" type="image/x-icon" href="~/Resources/Images/favicon.ico" />
+
+        <script src="~/Resources/Scripts/run_prettify.js" type="text/javascript"></script>
+        <script src="~/Resources/Scripts/jquery-2.0.3.min.js" type="text/javascript"></script>
+        <script src="~/Resources/Scripts/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+        <script src="~/Resources/Scripts/jquery.hammer.min.js" type="text/javascript"></script>
+        <script src="~/Resources/Scripts/responsiveCarousel.min.js" type="text/javascript"></script>
+        <script src="~/Resources/Scripts/range.js" type="text/javascript"></script>
+        <script src="~/Resources/Scripts/responsiveCarousel.min.js" type="text/javascript" ></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Formulario" runat="server">
+        <header id="header">   
+            <div class="container">
+                <div class="row">
+                    <table align="center"  class="no-border no-padding no-boxshadow no-borderradius" style="border:none;width: 1000px;" >
+                        <tr>
+                            <td style="width:65%" rowspan="2" >
+                                <div >
+                                    <h1 class="logo logo-cxp black">Chilexpress</h1>
+                                    <h1>Sistema de Ingreso de Servicios Urbanos</h1>
+                                </div>
+                            </td>
+                            <td style="width:35%">
+                            </td>
+                        </tr>
+                        <tr>
+                        <td style="text-align:right">
+                        </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </header>
+    <div>
+        <asp:ContentPlaceHolder ID="MessagesContent" runat="server">                            
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="BodyContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <footer id="footer">
+		<div class="container">
+			<div class="row">
+                <div class="row small">
+                <table style="border-style:none;width: 100%;">
+                    <tr>
+                        <td style="text-align:center; border-style:none">
+                            <asp:Label ID="lblVersion" runat="server" Text="Versión"></asp:Label>
+                        </td>
+                    </tr>
+                </table>
+                </div>
+			</div>
+		</div>
+	</footer>
+    </form>
+</body>
+</html>

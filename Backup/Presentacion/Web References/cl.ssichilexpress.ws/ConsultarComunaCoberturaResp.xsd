@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarComunaCoberturaResp" xmlns:eo="http://ws.chilexpress.cl/OSB/EBO/EstadoOperacion" elementFormDefault="qualified" targetNamespace="http://ws.chilexpress.cl/OSB/INTERNO/IMP/ConsultarComunaCoberturaResp" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://ws.ssichilexpress.cl:80/DireccionesSSO?SCHEMA%2FUT000001_EsquemasComunes%2FResources%2FSchemas%2FEBO%2FEstadoOperacion" namespace="http://ws.chilexpress.cl/OSB/EBO/EstadoOperacion" />
+  <xs:element name="respConsultarComunaCobertura" type="ConsultarComunaCoberturaResponseType" />
+  <xs:complexType name="ConsultarComunaCoberturaResponseType">
+    <xs:sequence>
+      <xs:element name="estadoOperacion" type="eo:EstadoOperacionType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="listaComunaCobertura" type="ListaComunaCoberturaType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ListaComunaCoberturaType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="comunaCobertura" type="ComunaCoberturaType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ComunaCoberturaType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codError" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="glsError" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="codOficina" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="glsCobertura" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="glsComuna" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="glsSector" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="idProvincia" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="idRegion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="idCentroUrbano" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="codigoIne" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="idComuna" nillable="true" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

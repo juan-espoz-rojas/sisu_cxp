@@ -1,0 +1,309 @@
+@font-face {
+	font-family: 'cxp-icons';
+	src:url('fonts/cxp-icons.eot');
+	src:url('fonts/cxp-icons.eot?#iefix') format('embedded-opentype'),
+		url('fonts/cxp-icons.woff') format('woff'),
+		url('fonts/cxp-icons.ttf') format('truetype'),
+		url('fonts/cxp-icons.svg#cxp-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'cxp-icons';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-cxp-iso, .icon-user, .icon-user-girl, .icon-user-group, .icon-user-add, .icon-box, .icon-box-fast, .icon-envelope, .icon-bag, .icon-measure, .icon-weight, .icon-office, .icon-money, .icon-multi-file, .icon-truck, .icon-double-angle-left, .icon-double-angle-right, .icon-time, .icon-time-lapse, .icon-pie, .icon-stats, .icon-mobile, .icon-tablet, .icon-laptop, .icon-desktop, .icon-briefcase, .icon-sort, .icon-bars, .icon-download-alt, .icon-arrow-left, .icon-arrow-right, .icon-arrow-up, .icon-arrow-down, .icon-minus, .icon-plus, .icon-location, .icon-caret-left, .icon-caret-right, .icon-caret-up, .icon-caret-down, .icon-thumbs-up, .icon-thumbs-down, .icon-asterisk, .icon-exclamation-sign, .icon-chevron-right, .icon-chevron-left, .icon-check-mark, .icon-home, .icon-ok, .icon-remove, .icon-star-empty, .icon-star, .icon-star-half, .icon-camera, .icon-pencil, .icon-undo, .icon-print, .icon-credit, .icon-comment, .icon-warning-sign, .icon-gift, .icon-screenshot, .icon-question-sign, .icon-plus-sign, .icon-minus-sign, .icon-remove-sign, .icon-ok-sign, .icon-refresh, .icon-repeat, .icon-lock, .icon-phone, .icon-plane, .icon-fighter-jet, .icon-cogs, .icon-wrench, .icon-cut, .icon-unlock, .icon-building, .icon-shopping-cart, .icon-ticket, .icon-newspaper, .icon-chevron-right-circle, .icon-forbidden, .icon-help, .icon-search, .icon-world, .icon-phone-mobile, .icon-phone-mobile-signal, .icon-bag-shopping, .icon-road {
+	font-family: 'cxp-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-cxp-iso:before {
+	content: "\e009";
+}
+.icon-user:before {
+	content: "\e00b";
+}
+.icon-user-girl:before {
+	content: "\e00c";
+}
+.icon-user-group:before {
+	content: "\e00f";
+}
+.icon-user-add:before {
+	content: "\e010";
+}
+.icon-box:before {
+	content: "\e011";
+}
+.icon-box-fast:before {
+	content: "\e020";
+}
+.icon-envelope:before {
+	content: "\e021";
+}
+.icon-bag:before {
+	content: "\f0dd";
+}
+.icon-measure:before {
+	content: "\f0de";
+}
+.icon-weight:before {
+	content: "\e030";
+}
+.icon-office:before {
+	content: "\e035";
+}
+.icon-money:before {
+	content: "\e037";
+}
+.icon-multi-file:before {
+	content: "\e03a";
+}
+.icon-truck:before {
+	content: "\e03b";
+}
+.icon-double-angle-left:before {
+	content: "\e03d";
+}
+.icon-double-angle-right:before {
+	content: "\e03e";
+}
+.icon-time:before {
+	content: "\e03f";
+}
+.icon-time-lapse:before {
+	content: "\e040";
+}
+.icon-pie:before {
+	content: "\e042";
+}
+.icon-stats:before {
+	content: "\e043";
+}
+.icon-mobile:before {
+	content: "\e049";
+}
+.icon-tablet:before {
+	content: "\e04a";
+}
+.icon-laptop:before {
+	content: "\e04b";
+}
+.icon-desktop:before {
+	content: "\e04c";
+}
+.icon-briefcase:before {
+	content: "\e04d";
+}
+.icon-sort:before {
+	content: "\f101";
+}
+.icon-bars:before {
+	content: "\f100";
+}
+.icon-download-alt:before {
+	content: "\f019";
+}
+.icon-arrow-left:before {
+	content: "\f060";
+}
+.icon-arrow-right:before {
+	content: "\f061";
+}
+.icon-arrow-up:before {
+	content: "\f062";
+}
+.icon-arrow-down:before {
+	content: "\f063";
+}
+.icon-minus:before {
+	content: "\f068";
+}
+.icon-plus:before {
+	content: "\f067";
+}
+.icon-location:before {
+	content: "\f095";
+}
+.icon-caret-left:before {
+	content: "\f0d9";
+}
+.icon-caret-right:before {
+	content: "\f0da";
+}
+.icon-caret-up:before {
+	content: "\f0d8";
+}
+.icon-caret-down:before {
+	content: "\f0d7";
+}
+.icon-thumbs-up:before {
+	content: "\f087";
+}
+.icon-thumbs-down:before {
+	content: "\f088";
+}
+.icon-asterisk:before {
+	content: "\e039";
+}
+.icon-exclamation-sign:before {
+	content: "\f06a";
+}
+.icon-chevron-right:before {
+	content: "\f0d1";
+}
+.icon-chevron-left:before {
+	content: "\e016";
+}
+.icon-check-mark:before {
+	content: "\f10a";
+}
+.icon-home:before {
+	content: "\f015";
+}
+.icon-ok:before {
+	content: "\f00c";
+}
+.icon-remove:before {
+	content: "\f00d";
+}
+.icon-star-empty:before {
+	content: "\f006";
+}
+.icon-star:before {
+	content: "\f005";
+}
+.icon-star-half:before {
+	content: "\f02f";
+}
+.icon-camera:before {
+	content: "\f030";
+}
+.icon-pencil:before {
+	content: "\f040";
+}
+.icon-undo:before {
+	content: "\f0e2";
+}
+.icon-print:before {
+	content: "\f089";
+}
+.icon-credit:before {
+	content: "\f09d";
+}
+.icon-comment:before {
+	content: "\f075";
+}
+.icon-warning-sign:before {
+	content: "\f071";
+}
+.icon-gift:before {
+	content: "\f06b";
+}
+.icon-screenshot:before {
+	content: "\f05b";
+}
+.icon-question-sign:before {
+	content: "\f059";
+}
+.icon-plus-sign:before {
+	content: "\f055";
+}
+.icon-minus-sign:before {
+	content: "\f056";
+}
+.icon-remove-sign:before {
+	content: "\f057";
+}
+.icon-ok-sign:before {
+	content: "\f058";
+}
+.icon-refresh:before {
+	content: "\f021";
+}
+.icon-repeat:before {
+	content: "\f01e";
+}
+.icon-lock:before {
+	content: "\f023";
+}
+.icon-phone:before {
+	content: "\e046";
+}
+.icon-plane:before {
+	content: "\f072";
+}
+.icon-fighter-jet:before {
+	content: "\f07a";
+}
+.icon-cogs:before {
+	content: "\f085";
+}
+.icon-wrench:before {
+	content: "\f0ad";
+}
+.icon-cut:before {
+	content: "\f0c4";
+}
+.icon-unlock:before {
+	content: "\f09c";
+}
+.icon-building:before {
+	content: "\f0f7";
+}
+.icon-shopping-cart:before {
+	content: "\f0fb";
+}
+.icon-ticket:before {
+	content: "\e000";
+}
+.icon-newspaper:before {
+	content: "\e001";
+}
+.icon-chevron-right-circle:before {
+	content: "\e041";
+}
+.icon-forbidden:before {
+	content: "\e002";
+}
+.icon-help:before {
+	content: "\e003";
+}
+.icon-search:before {
+	content: "\f002";
+}
+.icon-world:before {
+	content: "\e005";
+}
+.icon-phone-mobile:before {
+	content: "\e006";
+}
+.icon-phone-mobile-signal:before {
+	content: "\e007";
+}
+.icon-bag-shopping:before {
+	content: "\e008";
+}
+.icon-road:before {
+	content: "\f018";
+}

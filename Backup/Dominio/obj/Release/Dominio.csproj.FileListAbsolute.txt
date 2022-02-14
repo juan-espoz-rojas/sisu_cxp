@@ -1,0 +1,5 @@
+C:\DESARROLLO\SISU\SISU\Dominio\bin\Release\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Dominio\bin\Release\Dominio.pdb
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Release\Dominio.dll
+C:\DESARROLLO\SISU\SISU\Dominio\obj\Release\Dominio.pdb
